@@ -1,4 +1,4 @@
-Version 2
+Version 3
 
                                                 Titulo de la obra
 
@@ -8,5 +8,7 @@ Veamos ahora los cambios!
 - Ventaja es que podre ver las diferencias de un texto a otro
 - Puedo hacer que sea publico y solo algunas personas puedan editar
 - No seria mejor la solución de juntar blog y googledocs?
-
+- Cada pequeña difertencia supondría una línea nueva
+--- Preferiria que me corrigieran en rojo sobre el texto original y ya está
+- Sin autocorrecion
 
